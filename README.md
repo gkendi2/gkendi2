@@ -6,7 +6,7 @@ Student | BSc Computer Science / Informatics | Solving problems. Building stuff.
 ✉️ Contact: gloria.munene@strathmore.edu  
 🧠 Currently learning: Web development, databases, systems programming, assembly/microprocessors  
 👥 Looking to collaborate on: Web applications, database design, Python & Django projects, performance-focused coursework  
-💬 Coursework & Certifications: Python, SQL, Django, Assembly programming, Microprocessor interfacing, **CCA (Cisco Certified Associate)**
+💬 Certifications: **CCA (Cisco Certified Associate)**
 
 ---
 
@@ -22,17 +22,16 @@ Student | BSc Computer Science / Informatics | Solving problems. Building stuff.
 
 ---
 
-## 📚 Coursework & Projects
+## 🔭 Focus Areas
 
-- **CrewTrack**: Workforce management system for housekeepers — Django & SQL  
-- **CulinaryCraftDaily**: Recipe website — HTML, JS, and backend integration  
-- **Python / SQL Assignments**: Coursework exercises in programming and database management  
-- **Assembly Lab Exercises**: Low-level programming and memory management
+- Web Development (Frontend & Backend)  
+- Database Design & Management  
+- Systems Programming & Low-level Architecture  
+- Python & Django Projects  
+- Performance Optimization & Automation
 
 ---
 
 ## 🏆 Certifications
 
 ![CCA](https://img.shields.io/badge/CCA-Cisco%20Certified%20Associate-blue?style=for-the-badge&logo=cisco&logoColor=white)
-
-
